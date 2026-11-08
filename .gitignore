@@ -1,0 +1,6 @@
+build/
+quartus/output_files/
+quartus/db/
+quartus/incremental_db/
+*.vcd
+*.vvp
